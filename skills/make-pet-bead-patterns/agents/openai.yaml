@@ -1,0 +1,4 @@
+interface:
+  display_name: "宠物拼豆图纸"
+  short_description: "将宠物照片转换为多尺寸数字编号拼豆图纸并统计各色豆子用量"
+  default_prompt: "使用 $make-pet-bead-patterns 将我的宠物照片制作成带数字编号、色号和用量表的拼豆图纸。"
